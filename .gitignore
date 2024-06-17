@@ -1,0 +1,11 @@
+src/vendor/
+src/node_modules
+src/composer.lock
+src/package-lock.json
+src/public/udf_images
+mysql
+src/encrypted
+src/*.env
+docker-data
+src/app/Http/Controllers/Test/*
+*.sql
